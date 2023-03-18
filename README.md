@@ -1,7 +1,7 @@
-TextbookArt
-===========
+Textbook Art
+============
 
-TextbookArt: Abstract Handbook; Or, A Season in The Life of A. Manual:
+Textbook Art: Abstract Handbook; Or, A Season in The Life of A. Manual:
 * ART / CULTURE IS A DISTRIBUTED REVISION CONTROL SYSTEM;
 * THE ENGLISH TEXTBOOK PROJECT BEGAN WITH THE CONCEPT OF A METAPHYSIC OF ART MOVEMENTS;
 * IT WAS GOING TO BE THE SURREALIST TEXTBOOK, THEN THE ABSTRACT HANDBOOK;
